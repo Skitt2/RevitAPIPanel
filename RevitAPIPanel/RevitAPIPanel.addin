@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
 	<AddIn Type="Application">
-		<Name>RevitAPIPanel</Name>
-		<Assembly>"C:\RevitAPITraining\RevitAPIPanel.dll"</Assembly>
+		<Name>RevitAPIPanel2</Name>
+		<Assembly>"C:\RevitAPITrainig\RevitAPIPanel.dll"</Assembly>
 		<AddInId>CF674DEC-593B-46C4-AF20-EE5170FE1571</AddInId>
 		<FullClassName>RevitAPIPanel.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
